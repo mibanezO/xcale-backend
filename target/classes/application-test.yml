@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driverClassName: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+DB_HOST: jdbc:h2:mem:memdb
+DB_USER: sa
+DB_PASSWORD:

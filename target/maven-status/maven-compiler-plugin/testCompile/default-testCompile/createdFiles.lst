@@ -1,0 +1,13 @@
+com/example/whatsappbackendtest/controller/ConversationControllerTest$1.class
+config/TestConfig.class
+com/example/whatsappbackendtest/controller/ConversationControllerTest.class
+com/example/whatsappbackendtest/controller/UserControllerTest.class
+com/example/whatsappbackendtest/controller/GroupControllerTest$1.class
+com/example/whatsappbackendtest/service/GroupServiceTest.class
+com/example/whatsappbackendtest/service/MessageServiceTest.class
+config/BaseControllerTest.class
+com/example/whatsappbackendtest/controller/ConversationControllerTest$2.class
+com/example/whatsappbackendtest/controller/GroupControllerTest.class
+com/example/whatsappbackendtest/controller/MessageControllerTest.class
+config/BaseServiceTest.class
+com/example/whatsappbackendtest/service/UserServiceTest.class

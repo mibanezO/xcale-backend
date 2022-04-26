@@ -1,0 +1,20 @@
+server:
+  port: 8080
+  error.include-stacktrace: never
+  error.include-message: always
+
+spring:
+  application.name: whatsapp-backend
+  web.locale: es_PE
+  datasource:
+    url: ${DB_HOST}
+    username: ${DB_USER}
+    password: ${DB_PASSWORD}
+    driverClassName: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+messaging:
+  properties:
+    destination-prefix: '/messaging-queue'
